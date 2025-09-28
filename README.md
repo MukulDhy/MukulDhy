@@ -1,79 +1,76 @@
-# Hi there 👋, I'm Mukul Dahiya
+<a href="#"><img width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="175px"/></a>
 
-### 🌟 Welcome to my GitHub Profile!
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Mukul Dahiya</h1>
+<h3 align="center">I'm a passionate AI & Web Developer from India.</h3>
 
-I'm a passionate **AI & Web Developer** who loves building modern, interactive, and data-driven applications.  
-Here, you can explore my skills, projects, contributions, and more — all dynamically updated! 🚀  
+## 🙋‍♂️ About Me
 
----
+- 🔭 I’m currently working on **[Dynamic Dashboards & Modern Web Apps](https://your-portfolio-link.com)**
+- 🌱 I’m currently learning **Advanced Machine Learning & Deep Learning**
+- 👯 I’m looking to collaborate on **OpenSource and Innovative Projects**
+- 👨‍💻 All of my projects are available at **[My Portfolio](https://your-portfolio-link.com)**
+- 📫 How to reach me **1029mukul38@gmail.com**
+- ⚡ Fun fact **I love coding, building dashboards, and creating interactive web experiences.**
 
-## 💻 About Me
+## 🚀 Languages and Tools:
 
-- 🎓 B.Tech in AI, Dronacharya College of Engineering  
-- 💡 Passionate about **Web Development, Machine Learning, and Data Visualization**  
-- 🌱 Currently exploring **Deep Learning, Dynamic Dashboards, and Interactive UIs**  
-- ⚡ Fun fact: I love turning complex data into **beautiful, interactive visuals**  
+<p align="left"> 
+    <a href="https://www.java.com" target="_blank"> <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png"/> </a>
+    <a href="https://reactjs.org/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/react-native.png"/> </a>
+    <a href="https://spring.io/projects/spring-boot" target="_blank"> <img src="https://img.icons8.com/color/48/000000/spring-logo.png"/> </a> 
+    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://img.icons8.com/color/48/000000/javascript.png"/> </a> 
+    <a href="https://www.w3.org/html/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/html-5.png"/> </a> 
+    <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/css3.png"/> </a> 
+    <a href="https://getbootstrap.com" target="_blank"> <img src="https://img.icons8.com/color/48/000000/bootstrap.png"/> </a> 
+    <a href="https://www.python.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/python.png"/> </a> 
+    <a style="padding-right:8px;" href="https://nodejs.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/nodejs.png"/> </a> 
+    <a style="padding-right:8px;" href="https://www.mysql.com/" target="_blank"> <img src="https://img.icons8.com/fluent/50/000000/mysql-logo.png"/> </a>
+    <a href="https://www.mongodb.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="48" height="48"/> </a> 
+    <a href="https://firebase.google.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/firebase.png"/> </a> 
+    <a href="https://postman.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="45" height="45"/> </a>   
+    <a href="https://git-scm.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/git.png"/> </a> 
+    <a href="https://www.jenkins.io" target="_blank"> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="48" height="48"/> </a> 
+    <a href="https://redux.js.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/redux.png"/> </a>
+    <a href="https://expressjs.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a>
+</p>
 
----
+<br/>
 
-## 🛠️ Skills & Technologies
+<p align="center">
+    <a href="https://github.com/MukulDhy/github-readme-streak-stats">
+        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="MukulDhy's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=MukulDhy&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
+    </a>
+</p>
 
-| Frontend | Backend | Data & ML | Tools |
-|----------|---------|-----------|-------|
-| React.js, Tailwind CSS, HTML, CSS, JS | Node.js, Express, MongoDB | Python, TensorFlow, Keras, Pandas | Git, GitHub, VS Code, Figma |
+## 📊 My Github Stats
 
-### 🔹 My Skill Icons
-![Python](https://img.shields.io/badge/-Python-FFD43B?style=flat&logo=python&logoColor=000)  
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=000)  
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=000)  
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=fff)  
-![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=fff)  
-![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-06B6D4?style=flat&logo=tailwind-css&logoColor=fff)  
+<br/>
+<a href="https://github.com/MukulDhy/github-readme-stats"><img alt="MukulDhy's Github Stats" src="https://github-readme-stats.vercel.app/api?username=MukulDhy&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
+<a href="https://github.com/MukulDhy/github-readme-stats"><img alt="MukulDhy's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MukulDhy&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
 
----
+<br/>
+<b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
 
-## 📊 GitHub Stats
+<br/>
+<br/>
 
-### Dynamic Activity & Contributions
-![Mukul's GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=react)  
+<a href="https://github.com/MukulDhy/github-readme-activity-graph"><img alt="MukulDhy's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=MukulDhy&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
 
-### Top Languages
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=react)  
+<br/>
+<br/>
 
-### GitHub Streak
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=react-dark&hide_border=true)
+## Connect with me:
+<p align="left">
 
----
+<a href = "https://www.linkedin.com/in/mukul-dahiya/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
+<a href = "https://twitter.com/mukul_dhy"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a>
+<a href = "https://www.instagram.com/mukul_dhy/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
+<a href = "https://www.youtube.com/@MukulDhy"><img src="https://img.icons8.com/color/48/000000/youtube-play.png"/></a>
 
-## 📈 Dynamic Charts & Graphs
+</p>
 
-I love visualizing contributions and skills dynamically:  
-
-![Contribution Graph](https://ghchart.rshah.org/yourusername)  
-![Projects Graph](https://github-readme-activity-graph.cyclic.app/graph?username=yourusername&theme=react-dark&hide_border=true)
-
----
-
-## 🌐 Connect with Me
-
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=fff)](https://www.linkedin.com/in/yourprofile)  
-[![Portfolio](https://img.shields.io/badge/-Portfolio-000?style=flat&logo=website&logoColor=fff)](https://yourwebsite.com)  
-[![Email](https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=fff)](mailto:1029mukul38@gmail.com)  
-
----
-
-## ⚡ Fun Facts
-
-- 🔹 I turn **raw data** into **interactive, modern visual dashboards**  
-- 🔹 I love **dynamic content fetching**, graphs, and creating stunning user experiences  
-- 🔹 Every project I do is **mobile-friendly, fast, and modern**  
-
----
-
-### 💬 Quote
-
-*"Design is intelligence made visible. Code is creativity made functional."*  
-
----
-
-✨ Let's build something amazing together! 🚀
+## ❤ Views and Followers
+<a href="https://github.com/MukulDhy/github-profile-views-counter">
+    <img src="https://komarev.com/ghpvc/?username=MukulDhy">
+</a>
+<a href="https://github.com/MukulDhy?tab=followers"><img src="https://img.shields.io/github/followers/MukulDhy?label=Followers&style=social" alt="GitHub Badge"></a>
